@@ -1,4 +1,4 @@
-# Relófio-de-tarefas
+# Relógio-de-tarefas
 
 > Aplicação de um timer para focar em tarefas de trabalho ou estudo com histórico de uso, criado com React.js (vite), typescript, styled-components, react-hook-form e zod.
 
@@ -35,7 +35,7 @@ $ yarn dev ou npm run dev
 
 ## 🧾 Usando o projeto
 
-Com o projeto ignite-timer você pode criar um timer para focar em determinada tarefa, além de poder ver seu histórico de tarefas feitas. Basta acessar o link:
+Com este projeto você pode criar um timer para focar em determinada tarefa, além de poder ver seu histórico de tarefas feitas. Basta acessar o link:
 
 <!-- # <a href="https://blognews.vercel.app">Acesse o projeto</a> -->
 
