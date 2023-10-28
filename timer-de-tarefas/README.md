@@ -18,8 +18,8 @@ Para instalar o projeto, siga estas etapas:
 Linux e macOS:
 
 ```bash
-git clone https://github.com/MiguelPereiraDantas/Ignite-timer.git
-$ cd 02-ignite-timer
+git clone https://github.com/MiguelPereiraDantas/Timer-para-tarefas.git
+$ cd 02-Timer-para-tarefas
 $ yarn ou npm install
 $ yarn dev ou npm run dev
 ```
@@ -27,8 +27,8 @@ $ yarn dev ou npm run dev
 Windows:
 
 ```bash
-git clone https://github.com/MiguelPereiraDantas/Ignite-timer.git
-$ cd 02-ignite-timer
+git clone https://github.com/MiguelPereiraDantas/Timer-para-tarefas.git
+$ cd 02-Timer-para-tarefas
 $ yarn ou npm install
 $ yarn dev ou npm run dev
 ```
