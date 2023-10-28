@@ -1,6 +1,4 @@
-# Ignite-timer
-
-<img src="public/igniteTimer.png" alt="exemplo imagem">
+# Relófio-de-tarefas
 
 > Aplicação de um timer para focar em tarefas de trabalho ou estudo com histórico de uso, criado com React.js (vite), typescript, styled-components, react-hook-form e zod.
 
